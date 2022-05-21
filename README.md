@@ -1,3 +1,3 @@
 # Webpack-Demo
-- webpack基础
-- webpack优化
+- webpack基础配置
+- webpack性能优化
